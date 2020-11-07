@@ -35,4 +35,16 @@ Ejecutar el proyecto
 
 # AH PROGRAMAR!!!
 
+# NOTA (ACTUALIZADA): Este proyecto se realizo en un entorno virtual
+
+Instalar el entorno virtual
+- Comando: pip install virtualenv
+
+Ya instalado el entorno vamos a crear uno
+- Insertamos comando: virtualenv *El nombre de nuestro entorno*
+- Ejecutaremos en la terminal de nuestro editor el proceso por lotes llamada "activate.bat"
+- .\*nombre del entorno*\Scripts\activate.bat
+
+# AHORA SI A PROGRAMAR!!!
+
 # creditos: https://www.youtube.com/watch?v=MvVqjQqSdM4&t=936s 

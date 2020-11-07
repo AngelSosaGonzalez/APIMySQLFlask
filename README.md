@@ -4,34 +4,34 @@ Esta API hecha con Python utilizando el Framework llamado Flask, es una continua
 # Antes de iniciar
 
 Usaremos VSCode (Puedes usar la que tu quieras)
-Link: https://code.visualstudio.com/download
+- Link: https://code.visualstudio.com/download
 
 Para este proyecto como usaremos MySQL instalaremos XAMPP
-Link: https://sourceforge.net/projects/xampp/files/latest/download (O en su pagina oficial)
+- Link: https://sourceforge.net/projects/xampp/files/latest/download (O en su pagina oficial)
 
 Como API la probaremos con el programa POSTMAN igual podemos usar Insomnia pero pues POSTMAN ya lo tengo decargado
 Dejos los links de las dos:
 
-- POSTMAN
-Link: https://www.postman.com/downloads/
+POSTMAN
+- Link: https://www.postman.com/downloads/
 
-- Insomnia
-Link: https://insomnia.rest/download/
+Insomnia
+- Link: https://insomnia.rest/download/ 
 
 Instalar el framework:
-Comando: pip install flask
+- Comando: pip install flask
 
 Instalar las dependencias del framework (Las conexiones con la BD)
-Comandos:
-pip install flask-sqlalchemy
-pip install flask-marshmallow 
-pip install marshmallow-sqlalchemy
+- Comandos:
+- pip install flask-sqlalchemy
+- pip install flask-marshmallow 
+- pip install marshmallow-sqlalchemy
 
 Instalar los drivers se MySQL
-pip install pymysql
+- Comando: pip install pymysql
 
 Ejecutar el proyecto
-python src/APP.py
+- python src/APP.py
 
 # AH PROGRAMAR!!!
 
